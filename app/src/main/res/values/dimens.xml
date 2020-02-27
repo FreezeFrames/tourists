@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standart_margin">15dp</dimen>
+    <dimen name="big_margin">32dp</dimen>
+    <dimen name="medium_margin">20dp</dimen>
+    <dimen name="super_big_margin">45dp</dimen>
+    <dimen name="min_margin">5dp</dimen>
+    <dimen name="input_padding">10dp</dimen>
+    <dimen name="medium">10dp</dimen>
+    <dimen name="more">20dp</dimen>
+    <dimen name="very_big_margin">64dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="min_radius">8dp</dimen>
+    <dimen name="medium_radius">15dp</dimen>
+</resources>

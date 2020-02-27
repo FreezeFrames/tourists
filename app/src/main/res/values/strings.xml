@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tourists</string>
+    <string name="step">Step</string>
+    <string name="stept">Step 1/4</string>
+    <string name="step1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="step2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="step3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="step4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="send_code">Send code</string>
+    <string name="phone_number">phone number</string>
+</resources>
